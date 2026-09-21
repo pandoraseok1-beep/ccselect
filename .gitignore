@@ -1,0 +1,5 @@
+.claude/
+*.ps1
+*.log
+Thumbs.db
+desktop.ini
